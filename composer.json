@@ -48,6 +48,7 @@
       "hisorange\\BrowserDetect\\Test\\": "tests/"
     }
   },
+  "minimum-stability": "stable",
   "extra": {
     "laravel": {
       "providers": [
